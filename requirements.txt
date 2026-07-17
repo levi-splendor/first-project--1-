@@ -1,0 +1,6 @@
+#installing virtual environment
+python -m venv name-of-virtual-env
+
+streamlit
+fastapi
+uvicon
