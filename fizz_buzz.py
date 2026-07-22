@@ -1,4 +1,4 @@
-# num= int(input("enter number"))
+num= int(input("enter number"))
 i=1
 while i<=30:
   if i%3==0 and i%5==0:

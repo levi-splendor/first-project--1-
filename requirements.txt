@@ -4,3 +4,4 @@ python -m venv name-of-virtual-env
 streamlit
 fastapi
 uvicon
+#pip install -r requirement.txt
